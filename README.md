@@ -1,124 +1,105 @@
 # 🖤 Marina Malak
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0A0A0A,50:1A0A14,100:FF4F9A&text=MARINA%20MALAK&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=Software%20%26%20Systems%20Developer%20%7C%20Programming%20Instructor&descSize=15&descAlignY=65&animation=fadeIn" width="100%" alt="Marina Malak — Dark Pink Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0A0A0A,50:191319,100:F4B6D2&text=MARINA%20MALAK&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=Software%20%26%20Systems%20Developer%20%7C%20Programming%20Instructor&descSize=14&descAlignY=65&animation=fadeIn" width="100%" alt="Marina Malak"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EGYPT-FF4F9A?style=for-the-badge&labelColor=0A0A0A" alt="Egypt"/>
-  <img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPER-FF4F9A?style=for-the-badge&labelColor=0A0A0A" alt="Software Developer"/>
-  <img src="https://img.shields.io/badge/PROGRAMMING%20INSTRUCTOR-FF4F9A?style=for-the-badge&labelColor=0A0A0A" alt="Programming Instructor"/>
+  <img src="https://img.shields.io/badge/EGYPT-F4B6D2?style=for-the-badge&labelColor=0A0A0A" alt="Egypt"/>
+  <img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPER-F4B6D2?style=for-the-badge&labelColor=0A0A0A" alt="Software Developer"/>
+  <img src="https://img.shields.io/badge/PROGRAMMING%20INSTRUCTOR-F4B6D2?style=for-the-badge&labelColor=0A0A0A" alt="Programming Instructor"/>
 </p>
 
 <p align="center">
-  <i>Building elegant solutions. Writing meaningful code. Sharing knowledge.</i>
+  <i>Software • Creativity • Continuous Growth</i>
 </p>
 
 ---
 
-## ✦ About Me
+## ♡ About Me
 
-```text
-Name       → Marina Malak
-Location   → Egypt 🇪🇬
-Role       → Software & Systems Developer
-             Programming Instructor
-Interests  → Software Engineering • Databases
-             Problem Solving • Emerging Technologies
-```
+Hi! I'm Marina Malak, an Egyptian Software & Systems Developer and Programming Instructor. 🇪🇬
 
-I'm an Egyptian Software & Systems Developer and Programming Instructor passionate about building software, exploring new technologies, and helping others understand the art of programming.
+I'm passionate about software development, database technologies, problem-solving, and sharing programming knowledge with others.
 
-I believe in writing clean code, solving problems thoughtfully, and continuously growing as a developer.
+I enjoy exploring new technologies, improving my technical skills, and building solutions that combine creativity with logical thinking.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technologies & Tools
 
-### `01` — Programming Languages
+### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=FF4F9A" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FF4F9A" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=FF4F9A" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=FF4F9A" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=FF4F9A" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=FF4F9A" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Java-171317?style=for-the-badge&logo=openjdk&logoColor=F4B6D2" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-171317?style=for-the-badge&logo=python&logoColor=F4B6D2" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-171317?style=for-the-badge&logo=c&logoColor=F4B6D2" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-171317?style=for-the-badge&logo=cplusplus&logoColor=F4B6D2" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-171317?style=for-the-badge&logo=javascript&logoColor=F4B6D2" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Dart-171317?style=for-the-badge&logo=dart&logoColor=F4B6D2" alt="Dart"/>
 </p>
 
-### `02` — Databases & Web
+### Databases & Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=databricks&logoColor=FF4F9A" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-111111?style=for-the-badge&logo=oracle&logoColor=FF4F9A" alt="PL/SQL"/>
-  <img src="https://img.shields.io/badge/Oracle%20Database-111111?style=for-the-badge&logo=oracle&logoColor=FF4F9A" alt="Oracle Database"/>
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FF4F9A" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=FF4F9A" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-171317?style=for-the-badge&logo=databricks&logoColor=F4B6D2" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-171317?style=for-the-badge&logo=oracle&logoColor=F4B6D2" alt="PL/SQL"/>
+  <img src="https://img.shields.io/badge/Oracle%20Database-171317?style=for-the-badge&logo=oracle&logoColor=F4B6D2" alt="Oracle Database"/>
+  <img src="https://img.shields.io/badge/HTML5-171317?style=for-the-badge&logo=html5&logoColor=F4B6D2" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-171317?style=for-the-badge&logo=css3&logoColor=F4B6D2" alt="CSS3"/>
 </p>
 
-### `03` — Development & Hardware
+### Mobile Development & Hardware
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=FF4F9A" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino&logoColor=FF4F9A" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/IoT-111111?style=for-the-badge&logo=internetofthings&logoColor=FF4F9A" alt="Internet of Things"/>
+  <img src="https://img.shields.io/badge/Flutter-171317?style=for-the-badge&logo=flutter&logoColor=F4B6D2" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Arduino-171317?style=for-the-badge&logo=arduino&logoColor=F4B6D2" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/IoT-171317?style=for-the-badge&logo=internetofthings&logoColor=F4B6D2" alt="Internet of Things"/>
 </p>
 
 ---
 
-## 📌 Currently Leveling Up
+## ✧ Currently Learning & Improving
 
 <p>
-  <img src="https://img.shields.io/badge/Software%20Development-181018?style=flat-square&logo=github&logoColor=FF4F9A" alt="Software Development"/>
-  <img src="https://img.shields.io/badge/Database%20Development-181018?style=flat-square&logo=oracle&logoColor=FF4F9A" alt="Database Development"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-181018?style=flat-square&logo=leetcode&logoColor=FF4F9A" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Software%20Development-FCE4EC?style=flat-square&logo=github&logoColor=171317" alt="Software Development"/>
+  <img src="https://img.shields.io/badge/Database%20Development-FCE4EC?style=flat-square&logo=oracle&logoColor=171317" alt="Database Development"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-FCE4EC?style=flat-square&logo=leetcode&logoColor=171317" alt="Problem Solving"/>
 </p>
-
-> *Consistency over perfection. Progress over excuses.*
 
 ---
 
-## ♡ Exploring What's Next
+## ♡ Future Learning Goals
 
 <p>
-  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=kalilinux&logoColor=FF4F9A" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-111111?style=for-the-badge&logo=hackthebox&logoColor=FF4F9A" alt="Ethical Hacking"/>
-  <img src="https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge&logo=cisco&logoColor=FF4F9A" alt="Network Security"/>
-  <img src="https://img.shields.io/badge/Penetration%20Testing-111111?style=for-the-badge&logo=kalilinux&logoColor=FF4F9A" alt="Penetration Testing"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111111?style=for-the-badge&logo=openai&logoColor=FF4F9A" alt="Artificial Intelligence"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge&logo=scikitlearn&logoColor=FF4F9A" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-111111?style=for-the-badge&logo=pytorch&logoColor=FF4F9A" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-111111?style=for-the-badge&logo=googlegemini&logoColor=FF4F9A" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Data%20Science-111111?style=for-the-badge&logo=pandas&logoColor=FF4F9A" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-171317?style=for-the-badge&logo=kalilinux&logoColor=F4B6D2" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-171317?style=for-the-badge&logo=hackthebox&logoColor=F4B6D2" alt="Ethical Hacking"/>
+  <img src="https://img.shields.io/badge/Network%20Security-171317?style=for-the-badge&logo=cisco&logoColor=F4B6D2" alt="Network Security"/>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-171317?style=for-the-badge&logo=kalilinux&logoColor=F4B6D2" alt="Penetration Testing"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-171317?style=for-the-badge&logo=openai&logoColor=F4B6D2" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-171317?style=for-the-badge&logo=scikitlearn&logoColor=F4B6D2" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-171317?style=for-the-badge&logo=pytorch&logoColor=F4B6D2" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-171317?style=for-the-badge&logo=googlegemini&logoColor=F4B6D2" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Data%20Science-171317?style=for-the-badge&logo=pandas&logoColor=F4B6D2" alt="Data Science"/>
 </p>
 
 ---
 
-## ✧ A Little Inspiration
-
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random inspirational quote"/>
-  </a>
-</p>
-
----
-
-## ☎ Connect With Me
+## ✦ Connect With Me
 
 <p>
   <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF4F9A" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=F4B6D2" alt="GitHub"/>
   </a>
   <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF4F9A" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=F4B6D2" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4F9A,50:1A0A14,100:0A0A0A&height=100&section=footer" width="100%" alt="Pink and black footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4B6D2,50:191319,100:0A0A0A&height=110&section=footer" width="100%" alt="Dark and blush pink footer"/>
 </p>
 
 <p align="center">
-  <sub>Designed with 🖤 and a touch of 💗 by Marina Malak</sub>
+  <sub>Crafted with ♡ by Marina Malak</sub>
 </p>
