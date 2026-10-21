@@ -45,8 +45,8 @@ I enjoy exploring new technologies, improving my technical skills, and building 
   <img src="https://img.shields.io/badge/SQL-171317?style=for-the-badge&logo=databricks&logoColor=F4B6D2" alt="SQL"/>
   <img src="https://img.shields.io/badge/PL%2FSQL-171317?style=for-the-badge&logo=oracle&logoColor=F4B6D2" alt="PL/SQL"/>
   <img src="https://img.shields.io/badge/Oracle%20Database-171317?style=for-the-badge&logo=oracle&logoColor=F4B6D2" alt="Oracle Database"/>
-  <img src="https://img.shields.io/badge/HTML5-171317?style=for-the-badge&logo=html5&logoColor=F4B6D2" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-171317?style=for-the-badge&logo=css3&logoColor=F4B6D2" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/HTML-171317?style=for-the-badge&logo=html5&logoColor=F4B6D2" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-171317?style=for-the-badge&logo=css3&logoColor=F4B6D2" alt="CSS"/>
 </p>
 
 ### Mobile Development & Hardware
