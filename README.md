@@ -75,12 +75,6 @@ I enjoy exploring new technologies, improving my technical skills, and building 
   <img src="https://img.shields.io/badge/Cybersecurity-171317?style=for-the-badge&logo=kalilinux&logoColor=F4B6D2" alt="Cybersecurity"/>
   <img src="https://img.shields.io/badge/Ethical%20Hacking-171317?style=for-the-badge&logo=hackthebox&logoColor=F4B6D2" alt="Ethical Hacking"/>
   <img src="https://img.shields.io/badge/Network%20Security-171317?style=for-the-badge&logo=cisco&logoColor=F4B6D2" alt="Network Security"/>
-  <img src="https://img.shields.io/badge/Penetration%20Testing-171317?style=for-the-badge&logo=kalilinux&logoColor=F4B6D2" alt="Penetration Testing"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-171317?style=for-the-badge&logo=openai&logoColor=F4B6D2" alt="Artificial Intelligence"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-171317?style=for-the-badge&logo=scikitlearn&logoColor=F4B6D2" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-171317?style=for-the-badge&logo=pytorch&logoColor=F4B6D2" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-171317?style=for-the-badge&logo=googlegemini&logoColor=F4B6D2" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Data%20Science-171317?style=for-the-badge&logo=pandas&logoColor=F4B6D2" alt="Data Science"/>
 </p>
 
 ---
