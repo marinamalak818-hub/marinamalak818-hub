@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="./header.png" width="100%" alt="Marina Malak - Coffee Wave Header">
+</p>
+
+
+
+
+
 # ☕ Marina Malak
 
 <p align="center">
